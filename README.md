@@ -2,7 +2,7 @@
 Human_Pose_Estimation
 
 ## Intetion
-* Practice and Studt Pose Estimation
+* Practice and Study Pose Estimation
 
 ## Installation Process
 * numpy

@@ -32,11 +32,13 @@ Stacked_hourglass
 * Author make Loss => Batch_size and Stage Loss => Mean
 
 ## Layer Visualization
-* Conv Filter
+* Conv Filter  
 ![image](https://user-images.githubusercontent.com/59610723/128319373-d2e8dbd5-1009-4b46-bb32-e03b2b26afde.png)
-
-* Residual Filter
+  
+* Residual Filter  
 ![image](https://user-images.githubusercontent.com/59610723/128319493-602d907c-5c37-4b49-9dd4-2f8bb46d52b0.png)
+  
+* Hourglass Filter
 
 
 ## Copyright / End User License

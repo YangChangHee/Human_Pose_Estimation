@@ -25,8 +25,9 @@ Stacked_hourglass
 * I fixed Loss => Loss_re.py
 * Associated evaluation, train, test => test.py, train.py
 
-## Loss_re.py
+## Loss.py and Loss_re.py
 * Invisivle keypoint => Loss Conver to 0
+* Author`s Dataset No Invisible human pose estimation(keypoint Coordinate)
 
 ## Information Loss
 * Author make Loss => Batch_size and Stage Loss => Mean
@@ -38,9 +39,21 @@ Stacked_hourglass
 * Residual Filter  
 ![image](https://user-images.githubusercontent.com/59610723/128319493-602d907c-5c37-4b49-9dd4-2f8bb46d52b0.png)
   
-* Hourglass Filter
+* Hourglass Filter  
+Image Error in Code  
+N=1  
+![image](https://user-images.githubusercontent.com/59610723/128320181-91ab8c5d-2a51-4bdc-a25d-cdc0d6aeccba.png)
+  
+N=2
+![image](https://user-images.githubusercontent.com/59610723/128320221-0a46efda-b07f-42f6-92a5-b4ba18f097f3.png)
 
-
+* Merge Filter  
+![image](https://user-images.githubusercontent.com/59610723/128320406-3b3e083f-119e-4e41-aea3-185b5ba15c0e.png)
+  
+* PoseNet Filter  
+![image](https://user-images.githubusercontent.com/59610723/128320449-78e63407-feee-438c-bfea-e4ac2484c126.png)
+  
+  
 ## Copyright / End User License
 * To Check github (https://github.com/princeton-vl/pytorch_stacked_hourglass)
 

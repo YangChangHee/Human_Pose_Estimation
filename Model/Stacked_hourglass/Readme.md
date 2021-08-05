@@ -31,6 +31,9 @@ Stacked_hourglass
 ## Information Loss
 * Author make Loss => Batch_size and Stage Loss => Mean
 
+## Layer Visualization
+* ![image-2.png](attachment:image-2.png)
+
 ## Copyright / End User License
 * To Check github (https://github.com/princeton-vl/pytorch_stacked_hourglass)
 

@@ -44,7 +44,7 @@ Image Error in Code
 N=1  
 ![image](https://user-images.githubusercontent.com/59610723/128320181-91ab8c5d-2a51-4bdc-a25d-cdc0d6aeccba.png)
   
-N=2
+N=2  
 ![image](https://user-images.githubusercontent.com/59610723/128320221-0a46efda-b07f-42f6-92a5-b4ba18f097f3.png)
 
 * Merge Filter  

@@ -3,7 +3,7 @@
 Stacked_hourglass
 
 ## Intetion
-* Practice and Study Pose Estimation
+* Check and Study Pose Estimation (In Jupyter notebook)
 
 ## Installation Process
 * numpy

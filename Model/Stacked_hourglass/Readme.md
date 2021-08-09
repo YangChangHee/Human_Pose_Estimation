@@ -18,6 +18,10 @@ Stacked_hourglass
 * h5py
 * time
 
+## Pretrained Model (Stacked Hourglass)
+* ACC 0.902 => http://www-personal.umich.edu/~cnris/original_8hg/checkpoint.pt
+* ACC 0.883 => http://www-personal.umich.edu/~cnris/original_2hg/checkpoint.pt
+
 ## Getting Started
 * Associated Dataset => ref.py, dp.py
 * Associated Transform => img.py, misc.py, group.py

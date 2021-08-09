@@ -25,12 +25,22 @@ Stacked_hourglass
 * I fixed Loss => Loss_re.py
 * Associated evaluation, train, test => test.py, train.py
 
+## Explanation ref.py, dp.py
+* random Rotate image
+* 1/2 probability, RGB => Fixed Random Color 
+
+
 ## Loss.py and Loss_re.py
 * Invisivle keypoint => Loss Conver to 0
 * Author`s Dataset No Invisible human pose estimation(keypoint Coordinate)
 
 ## Information Loss
 * Author make Loss => Batch_size and Stage Loss => Mean
+
+## train.py, test.py
+* Training for model you must join the terminal(python train.py -e yourmodelname) => -e initialization
+* python train.py -c yourmodelname => -c continue your model
+* python test.py -c yourmodelname => -c continue your model and test(Reload from train.py)
 
 ## Layer Visualization
 * Conv Filter  
